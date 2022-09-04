@@ -40,7 +40,7 @@ To install put the braillecodec file for your selected language in your project 
 Everybody is free to open issues and submit pull requests to improve this codec or add support in other languages.
 
 ### License
-Copyright (C) [Nicklas Tegner - @NicklasMCHD](https://twitter.com/NicklasMCHD).
+Copyright (C) [Jessica Tegner - @JessicaTegnerDK](https://twitter.com/JessicaTegnerDK).
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
 the Free Software Foundation, version 3 of the License.
